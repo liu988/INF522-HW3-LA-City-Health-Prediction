@@ -1,6 +1,6 @@
 # INF522-HW3-LA-City-Health-Prediction
 
-1 Step: download mathematica, jupyter
+1 Step: download mathematica, jupyter, go to https://data.lacity.org/A-Well-Run-City/MyLA311-Service-Request-Data-2016/ndkd-k878 to export dataset as csv
 
 2 Step: install geometry, numpy, pandas, datetime, sklearn
 
