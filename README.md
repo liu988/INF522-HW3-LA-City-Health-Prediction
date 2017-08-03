@@ -6,6 +6,6 @@
 
 3 Step: run pre_process to do feature engineering -> get data.csv
 
-4 Step: run prediction
+4 Step: run prediction -> get test_scores.txt
 
 5 Step: run plot
